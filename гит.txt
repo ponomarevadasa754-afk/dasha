@@ -1,0 +1,21 @@
+$ git log--graph --pretty=oneline --abbrev-commit --all --decorate
+* blO8dfb (HEAD -> main, origin/main) Merge pull request #5 from EgOrS/restart
+|\
+| * 6O59896 (origin/restart, restart)
+|/
+* 57Оfe6f Merge pull request #4 from EgOrS/draw
+|\
+| * 1Oa5ab3 (origin, draw)
+|/
+* 471442b Merge pull request #3 from EgOrS/win
+|\
+| * 2d84e5c (origin/win, win)
+|/
+* 6Of6566 Merge pull request #2 from EgOrS/Rules
+|\
+| * 8bc3789 (origin/Rules, Rules)
+|/
+* 82f53a5 Merge pull request #1 from EgorS/Inputcorrectness
+|\
+| * 1f42051 (origin/Inputcorrectness, Inputcorrectness)
+* 3ee7145 Initial commit
